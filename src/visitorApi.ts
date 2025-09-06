@@ -1,4 +1,5 @@
-import axios, { AxiosResponse } from "axios";
+import axios from "axios";
+import type { AxiosResponse } from "axios";
 
 const API_URL = "https://birthday-backend-esks.onrender.com"; // replace with deployed URL
 
