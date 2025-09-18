@@ -120,7 +120,7 @@ const App: React.FC = () => {
                       mt: 2,
                     }}
                   >
-                    Will you be my girlfriend, {name}? ❤️
+                    be my girlfriend, {name}? ❤️
                   </Typography>
                 </Box>
               </>
