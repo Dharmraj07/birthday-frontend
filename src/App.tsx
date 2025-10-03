@@ -99,7 +99,7 @@ const App: React.FC = () => {
                   🎉 Happy Birthday {name}! 🎂
                 </Typography>
                 <Typography variant="h6" gutterBottom>
-                  Wishing you lots of happiness, success, and love 💖
+                  Wishing you lots of happiness,  and love 💖
                 </Typography>
 
                 {/* Proposal Section */}
@@ -110,7 +110,7 @@ const App: React.FC = () => {
                     gutterBottom
                     sx={{ fontWeight: "bold" }}
                   >
-                    💌 On this special day, I have something to ask...
+                  
                   </Typography>
                   <Typography
                     variant="h4"
